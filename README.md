@@ -1,0 +1,1 @@
+This repository is to create the informational site for the Portland Hack + Help user group.
